@@ -2077,7 +2077,7 @@ input, select, textarea {
 		}
 
 		.homepage #header {
-			height: 35em;
+			height: 25em;
 		}
 
 /* Logo */
@@ -2099,7 +2099,7 @@ input, select, textarea {
 
 		#logo p {
 			color: #eee;
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.75);
 			text-transform: uppercase;
 			margin: 1.25em 0 0 0;
 			display: block;
