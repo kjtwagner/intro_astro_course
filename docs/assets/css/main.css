@@ -1655,7 +1655,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #f98780;
+			background-color:  #AE7A7E;
 		}
 
 		input[type="button"].large,
@@ -1681,7 +1681,7 @@ input, select, textarea {
 			input[type="reset"].style1:hover,
 			button.style1:hover,
 			.button.style1:hover {
-				background-color: #f98780;
+				background-color:  #AE7A7E;
 			}
 
 			input[type="button"].style1:active,
@@ -1697,7 +1697,7 @@ input, select, textarea {
 		input[type="reset"].style2,
 		button.style2,
 		.button.style2 {
-			background: none;
+			background:  #1B1F50 url("images/overlay.png");
 			color: #606167;
 			box-shadow: inset 0px 0px 2px 0px #a0a1a7;
 		}
@@ -1707,7 +1707,7 @@ input, select, textarea {
 			input[type="reset"].style2:hover,
 			button.style2:hover,
 			.button.style2:hover {
-				box-shadow: inset 0px 0px 2px 0px #606167;
+				box-shadow: inset 0px 0px 2px 0px   #AE7A7E;
 			}
 
 			input[type="button"].style2:active,
@@ -1715,7 +1715,7 @@ input, select, textarea {
 			input[type="reset"].style2:active,
 			button.style2:active,
 			.button.style2:active {
-				box-shadow: inset 0px 0px 2px 0px #202127;
+				box-shadow: inset 0px 0px 2px 0px #d96760;
 			}
 
 		input[type="button"].style3,
@@ -1732,7 +1732,7 @@ input, select, textarea {
 			input[type="reset"].style3:hover,
 			button.style3:hover,
 			.button.style3:hover {
-				background-color: #3f434b;
+				background-color:  #AE7A7E;
 			}
 
 			input[type="button"].style3:active,
@@ -1740,7 +1740,7 @@ input, select, textarea {
 			input[type="reset"].style3:active,
 			button.style3:active,
 			.button.style3:active {
-				background-color: #1f232b;
+				background-color: #d96760;
 			}
 
 /* List */
