@@ -1697,9 +1697,9 @@ input, select, textarea {
 		input[type="reset"].style2,
 		button.style2,
 		.button.style2 {
-			background:  #1B1F50 url("images/overlay.png");
-			color: #606167;
-			box-shadow: inset 0px 0px 2px 0px #a0a1a7;
+			background:  #AE7A7E  url("images/overlay.png");
+			color: #fff;
+			/*box-shadow: inset 0px 0px 2px 0px #a0a1a7;*/
 		}
 
 			input[type="button"].style2:hover,
@@ -1707,7 +1707,7 @@ input, select, textarea {
 			input[type="reset"].style2:hover,
 			button.style2:hover,
 			.button.style2:hover {
-				box-shadow: inset 0px 0px 2px 0px   #AE7A7E;
+				background-color: #1B1F50;
 			}
 
 			input[type="button"].style2:active,
