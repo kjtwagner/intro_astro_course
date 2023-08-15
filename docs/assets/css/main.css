@@ -1748,6 +1748,12 @@ input, select, textarea {
 				background-color: #d96760;
 			}
 
+		button.disable,
+		.button.disable {
+			background: #A2A2A2;
+			color: #fff;
+		}
+
 /* List */
 
 	ul {
