@@ -1620,6 +1620,11 @@ input, select, textarea {
 			width: 100%;
 			margin: 0 0 2em 0;
 		}
+		.image.small {
+			display: block;
+			width: 60%;
+			margin: 0 0 2em 0;
+		}
 
 /* Button */
 
@@ -2002,13 +2007,13 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: #1B1F50 url("images/overlay.png");
+			background: #2C3B55 url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #1b1f50 url("images/overlay.png");
+				background: #2C3B55 url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -2261,7 +2266,7 @@ input, select, textarea {
 	}
 
 		#highlights .highlight h3 {
-			color: #1B1F50;
+			color: #2C3B55;
 			margin: 0 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
