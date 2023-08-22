@@ -1712,7 +1712,7 @@ input, select, textarea {
 			input[type="reset"].style2:hover,
 			button.style2:hover,
 			.button.style2:hover {
-				background-color: #2C3B55;
+				background-color: #282b34;
 			}
 
 			input[type="button"].style2:active,
